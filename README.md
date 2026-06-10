@@ -147,8 +147,7 @@ iMocha-UX-Assignment-UdayDolas/
 
 ## 🔗 Figma Design Link
 
-> 👉 **[View Full Design on Figma](#)**
-> *(Replace # with your actual Figma share link)*
+> 👉 **[View Full Design on Figma](https://www.figma.com/design/0RsgNfoevZ2hSItcFA6cxL/Skills_Intelligence_Hub_UdayDolas_iMocha?node-id=0-1&t=0PTIzNvEy6FcS1Sy-1)**
 
 ---
 
@@ -157,7 +156,8 @@ iMocha-UX-Assignment-UdayDolas/
 **Uday Dolas**
 B.Tech Computer Technology | RTMSSU, Pune
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/uday-dolas909708338/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/uday-d-909708338/)
+- 🎨 [Portfolio](https://www.linkedin.com/in/uday-d-909708338/)
 - 📧 udaydolas08@gmail.com
 - 📱 +91 9579934355
 
